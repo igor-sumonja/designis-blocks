@@ -1,0 +1,21 @@
+.wp-block-designis-testimonial__header {
+  display: flex;
+  align-items: center;
+}
+.wp-block-designis-testimonial__header img {
+  height: 50px;
+  width: 50px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+.wp-block-designis-testimonial__name {
+  margin-left: 10px;
+  width: 100%;
+}
+.wp-block-designis-testimonial__testimonial {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=front.css.map*/

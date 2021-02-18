@@ -1,0 +1,27 @@
+.wp-block-designis-testimonial {
+  $root: &;
+
+  &__header {
+    display: flex;
+    align-items: center;
+
+    img {
+      height: 50px;
+      width: 50px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+
+  }
+
+  &__name {
+    margin-left: 10px;
+    width: 100%;
+  }
+
+  &__testimonial {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+}
